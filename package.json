@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start":"node index",
+      "repeat_2":"node index_works"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattkime/rxjs-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattkime/rxjs-test/issues"
+  },
+  "homepage": "https://github.com/mattkime/rxjs-test#readme",
+  "dependencies": {
+    "rxjs": "^5.0.0-beta.11"
+  }
+}
